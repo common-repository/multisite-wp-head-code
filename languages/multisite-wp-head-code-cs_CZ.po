@@ -1,0 +1,67 @@
+# Copyright (C) 2012 Multisite wp_head Code
+# This file is distributed under the same license as the Multisite wp_head Code package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Multisite wp_head Code 1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/multisite-wp-head-code\n"
+"POT-Creation-Date: 2012-03-03 08:59:44+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-03-03 15:37+0100\n"
+"Last-Translator: Zaantar <zaantar@gmail.com>\n"
+"Language-Team: Zaantar <zaaantar@gmail.com>\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+
+#. #-#-#-#-#  plugin.pot (Multisite wp_head Code 1.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: multisite-wp-head-code.php:70
+#: multisite-wp-head-code.php:100
+msgid "Multisite wp_head Code"
+msgstr "Multisite wp_head Code"
+
+#: multisite-wp-head-code.php:86
+msgid "Settings saved."
+msgstr "Nastavení uložena."
+
+#: multisite-wp-head-code.php:104
+msgid "Please consider a donation"
+msgstr "Zvažte, prosím, podporu mé práce"
+
+#: multisite-wp-head-code.php:106
+msgid "I spend quite a lot of my precious time working on opensource WordPress plugins. If you find this one useful, please consider helping me develop it further. Even the smallest amount of money you are willing to spend will be welcome."
+msgstr "Nezanedbatelnou část svého vzácného času trávím vývojem a údržbou opensource pluginů pro WordPress. Pokud se vám tento plugin zdá užitečným, umožněte mi prosím vyvíjet jej i do budoucna. Každá koruna (resp. euro), kterou jste ochotni darovat, je velice vítaná."
+
+#: multisite-wp-head-code.php:116
+msgid "Settings"
+msgstr "Nastavení"
+
+#: multisite-wp-head-code.php:121
+msgid "Code (<code>HTML</code>, <code>CSS</code>, <code>JS</code> etc):"
+msgstr "Kód (<code>HTML</code>, <code>CSS</code>, <code>JS</code> etc):"
+
+#: multisite-wp-head-code.php:128
+msgid "Hide donation button"
+msgstr "Skrýt sekci o příspěvcích"
+
+#: multisite-wp-head-code.php:135
+msgid "If you don't want to be bothered again..."
+msgstr "Pokud již nechcete být obtěžováni..."
+
+#: multisite-wp-head-code.php:139
+msgid "Save"
+msgstr "Uložit"
+
+#. Description of the plugin/theme
+msgid "Includes custom HTML/CSS/JS code in the <head> section on every blog in the network."
+msgstr "Vloží libovolný HTML/CSS/JS kód do sekce <head> na každé stránce v síti blogů."
+
+#. Author of the plugin/theme
+msgid "Zaantar"
+msgstr "Zaantar"
+
+#. Author URI of the plugin/theme
+msgid "http://zaantar.eu"
+msgstr "http://zaantar.eu"
+
